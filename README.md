@@ -3,6 +3,7 @@
 🤵🏽‍♂️ I am Bernard and I'm passionate about turning ideas into reality but that's not all,
 
 🖊 I write instructions that humans read, but computers obey,
+
 👨🏽‍🍳 I make sauce, but not in the kitchen, 🙃 I take my craft seriously, but i'm just having fun.
 
 
