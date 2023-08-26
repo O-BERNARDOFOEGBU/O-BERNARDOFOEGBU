@@ -4,10 +4,10 @@ Hello, my name is Bernard Ofoegbu.
 
 # Hi there! Welcome to my GitHub Profile! ✨
 
-## <img src="./assets/waving-hand.webp" width="4%"> My name is Bernard, and I am a technophile. <img src="./assets/waving-hand.webp" width="4%">
+## My name is Bernard, and I am a technophile.
 
 <div align="center">
-    <img width="90%" src="./assets/quote1-d.jpeg">
+    ![Quotefancy-19979-3840x2160](https://github.com/O-BERNARDOFOEGBU/O-BERNARDOFOEGBU/assets/65433039/663f302e-f91a-4bc3-adbc-227e8963ae45)
 </div>
 
 
