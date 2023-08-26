@@ -1,15 +1,15 @@
 <!--
-Hello, my name is Ginny, ahihi.
+Hello, my name is Bernard Ofoegbu.
 -->
 
 # Hi there! Welcome to my GitHub Profile! ✨
 
-## <img src="./assets/waving-hand.webp" width="4%"> My name is Ginny, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
+## <img src="./assets/waving-hand.webp" width="4%"> My name is Bernard, and I am a technophile. <img src="./assets/waving-hand.webp" width="4%">
 
 <div align="center">
     <img width="90%" src="./assets/quote1-d.jpeg">
 </div>
-![Quotefancy-19979-3840x2160](https://github.com/O-BERNARDOFOEGBU/O-BERNARDOFOEGBU/assets/65433039/3e55a91d-b6bf-48ee-a11f-c56106037ad1)
+
 
 
 🤵🏽‍♂️ I am Bernard and I'm passionate about turning ideas into reality but that's not all,
