@@ -11,6 +11,7 @@ Hello, my name is Bernard Ofoegbu.
 <Br>
 📖 I used to be a non-tech person growing up without my own computer in a non-wifi room 🤕 I _never_ thought that one day, coding and all those complex technical kinds of stuff I _never_ cared about would dawn on me and eventually become my career down the road 🔮
 
+
 📖 I first learned to code at the beginning of __2019__ as I switched from Art to Computer Science in college, but I literally had no luck with this major 🤯 I could not have _hated_ coding more than I did 😕
 
 📖 Not until August __2021__ did I ACTUALLY start learning programming and coding in a way that worked out well for me 🧐 I've finally known how to learn coding by trial and error 🤓
