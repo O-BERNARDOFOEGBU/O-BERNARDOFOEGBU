@@ -50,6 +50,11 @@ Hello, my name is Bernard Ofoegbu.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=O-BERNARDOFOEGBU&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=O-BERNARDOFOEGBU&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-BERNARDOFOEGBU&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
+</p>
+
 <!--
 🤵🏽‍♂️ I am Bernard and I'm passionate about turning ideas into reality but that's not all,
 
