@@ -12,9 +12,9 @@ Hello, my name is Bernard Ofoegbu.
 
 📖 I used to be a non-tech person growing up without my own computer in a non-wifi room 🤕 I _never_ thought that one day, coding and all those complex technical kinds of stuff I _never_ cared about would dawn on me and eventually become my career down the road 🔮 
 
-📖 I first learned to code at the beginning of __2019__ as I switched from Art to Computer Science in college, but I literally had no luck with this major 🤯 I could not have _hated_ coding more than I did 😕
+📖 Back in early 2019, during my mandatory national youth service after college, I dipped my toes into the world of coding for the first time. Later that year, I found myself working at a bank, diving into finance and number crunching. But then came the plot twist – the pandemic hit, lockdowns were enforced, and there I was. I decided to invest in a small computer with the savings I'd managed to set aside.Then, like a bolt of inspiration, a captivating programming video caught my eye. From that very moment, everything changed.
 
-📖 Not until August __2020__ did I ACTUALLY start learning programming and coding in a way that worked out well for me 🧐 I've finally known how to learn coding by trial and error 🤓
+📖 I started learning programming and coding in a way that worked out well for me 🧐 I've finally known how to learn coding by trial and error 🤓
 
 📖 Now, I _enjoy_ learning new technologies and new programming languages by making something from scratch step by step as well as working on real-world projects as part of my day-to-day job 🛠
 
