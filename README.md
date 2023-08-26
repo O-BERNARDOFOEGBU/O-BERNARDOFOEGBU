@@ -4,7 +4,8 @@ Hello, my name is Bernard Ofoegbu.
 
 # Hey there! Welcome to my GitHub Profile! ✨
 
-## 👋I'm Bernard – a tech enthusiast through and through. You can call me a passionate fan of all things tech. And yes, you guessed it, I'm a technophile. 😄.👋
+👋 My name is Ginny, an aspiring technophile. 😄 👋
+
 <div align="center">
     <img width="90%" src="https://github.com/O-BERNARDOFOEGBU/O-BERNARDOFOEGBU/assets/65433039/d7516c98-6cc3-4095-9651-b27f68403522">
 </div>
