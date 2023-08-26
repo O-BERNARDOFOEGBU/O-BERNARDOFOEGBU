@@ -4,13 +4,10 @@ Hello, my name is Bernard Ofoegbu.
 
 # Hi there! Welcome to my GitHub Profile! ✨
 
-## My name is Bernard, and I am a technophile.
+## 👋My name is Bernard, and I am a technophile.👋
 
 <div align="center">
-
-
  ![Quotefancy-19979-3840x2160](https://github.com/O-BERNARDOFOEGBU/O-BERNARDOFOEGBU/assets/65433039/d7516c98-6cc3-4095-9651-b27f68403522)
-
 </div>
 
 
