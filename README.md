@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Quotefancy-19979-3840x2160](https://github.com/O-BERNARDOFOEGBU/O-BERNARDOFOEGBU/assets/65433039/3e55a91d-b6bf-48ee-a11f-c56106037ad1)
+
 
 🤵🏽‍♂️ I am Bernard and I'm passionate about turning ideas into reality but that's not all,
 
