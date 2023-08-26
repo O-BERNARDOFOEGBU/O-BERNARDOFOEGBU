@@ -9,8 +9,13 @@ Hello, my name is Bernard Ofoegbu.
     <img width="90%" src="https://github.com/O-BERNARDOFOEGBU/O-BERNARDOFOEGBU/assets/65433039/d7516c98-6cc3-4095-9651-b27f68403522">
 </div>
 
+<div align="center">
+    <img width="60%" src="https://github.com/O-BERNARDOFOEGBU/O-BERNARDOFOEGBU/assets/65433039/cce68e13-7953-434b-a0c0-4ecc22bec058">
+</div>
 
-![Quotefancy-1699923-3840x2160](https://github.com/O-BERNARDOFOEGBU/O-BERNARDOFOEGBU/assets/65433039/cce68e13-7953-434b-a0c0-4ecc22bec058)
+<div>
+  <p align="center" style="font-size: 2.5rem">🍀🍀🍀<p>
+</div>
 
 ## 🛠 Languages and Tools
 📖 I have been learning and exploring these following tools and languages
