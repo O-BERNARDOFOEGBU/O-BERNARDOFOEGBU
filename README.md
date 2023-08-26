@@ -57,6 +57,12 @@ Hello, my name is Bernard Ofoegbu.
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=O-BERNARDOFOEGBU&theme=dark&background=000000&custom_title=streak-stats&hide_border=false&layout=compact" />
 </p>
 
+<!-- GitHub Activity Graph -->
+[![Ginny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=O-BERNARDOFOEGBU&theme=rogue)](https://github.com/ginny100/github-readme-activity-graph)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=O-BERNARDOFOEGBU&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <!--
 🤵🏽‍♂️ I am Bernard and I'm passionate about turning ideas into reality but that's not all,
 
