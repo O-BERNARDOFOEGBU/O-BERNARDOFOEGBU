@@ -41,7 +41,12 @@ Hello, my name is Bernard Ofoegbu.
     <code><a href="https://www.docker.com//" title="Docker" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></code>
 </div>
 
+## 📊 Stats
+<!-- Profile views
+<p> <img src="https://komarev.com/ghpvc/?username=O-BERNARDOFOEGBU" alt="O-BERNARDOFOEGBU" /> </p> -->
 
+<!-- Profile Visitors -->
+![](https://visitor-badge.laobi.icu/badge?page_id=O-BERNARDOFOEGBU.O-BERNARDOFOEGBU)
 
 <!--
 🤵🏽‍♂️ I am Bernard and I'm passionate about turning ideas into reality but that's not all,
