@@ -9,6 +9,8 @@ Hello, my name is Bernard Ofoegbu.
 ![Quotefancy-19979-3840x2160](https://github.com/O-BERNARDOFOEGBU/O-BERNARDOFOEGBU/assets/65433039/d7516c98-6cc3-4095-9651-b27f68403522)
 
 
+![Quotefancy-1699923-3840x2160](https://github.com/O-BERNARDOFOEGBU/O-BERNARDOFOEGBU/assets/65433039/cce68e13-7953-434b-a0c0-4ecc22bec058)
+
 ## 🛠 Languages and Tools
 📖 I have been learning and exploring these following tools and languages
 
