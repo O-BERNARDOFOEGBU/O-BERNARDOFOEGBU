@@ -56,7 +56,7 @@ Hello, my name is Bernard Ofoegbu.
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=O-BERNARDOFOEGBU&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=O-BERNARDOFOEGBU&theme=dark&background=000000&custom_title=streak-stats&hide_border=false&layout=compact" />
 </p>
 
 <!--
