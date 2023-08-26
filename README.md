@@ -55,6 +55,10 @@ Hello, my name is Bernard Ofoegbu.
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-BERNARDOFOEGBU&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
 </p>
 
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=O-BERNARDOFOEGBU&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
+</p>
+
 <!--
 🤵🏽‍♂️ I am Bernard and I'm passionate about turning ideas into reality but that's not all,
 
