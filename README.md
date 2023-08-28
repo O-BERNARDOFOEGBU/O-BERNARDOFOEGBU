@@ -76,7 +76,7 @@ Hello, my name is Bernard Ofoegbu.
 </p>
 
 <!-- GitHub Activity Graph -->
-[![Bernie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=O-BERNARDOFOEGBU&theme=rogue)]
+[![Bernie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=O-BERNARDOFOEGBU&theme=rogue)
 
 
 ## 🏆 GitHub Trophies
