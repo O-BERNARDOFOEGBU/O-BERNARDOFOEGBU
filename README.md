@@ -12,9 +12,9 @@ Hello, my name is Bernard Ofoegbu.
 
 📖 As a passionate and detail-oriented software engineer, I thrive on building scalable, efficient, and user-centric web applications. With over 5 years of experience, I have honed my skills in React.js, Next.js, Vue.js, and other cutting-edge technologies, contributing to a wide range of industries such as fintech, edtech, e-commerce, mobility, and entertainment.
 
-I’ve collaborated with cross-functional teams to deliver seamless digital solutions, integrating APIs and optimizing user interfaces for performance and accessibility. From creating fintech solutions for transparent cross-border transactions to automating complex university operations in the edtech space, my work has consistently been about improving user experiences and business efficiency. My recent exploration of AI-driven applications, building chatbots and voice assistants, reflects my curiosity and commitment to continuous learning.
+🛠 I’ve collaborated with cross-functional teams to deliver seamless digital solutions, integrating APIs and optimizing user interfaces for performance and accessibility. From creating fintech solutions for transparent cross-border transactions to automating complex university operations in the edtech space, my work has consistently been about improving user experiences and business efficiency. My recent exploration of AI-driven applications, building chatbots and voice assistants, reflects my curiosity and commitment to continuous learning.
 
-Driven by a passion for innovation, I take pride in writing clean, maintainable code, leading projects to successful completion, and always pushing the boundaries of what’s possible with technology. 🔮 
+🔮 Driven by a passion for innovation, I take pride in writing clean, maintainable code, leading projects to successful completion, and always pushing the boundaries of what’s possible with technology. 🔮 
 
 📖 Now, I _enjoy_ learning new technologies and new programming languages by making something from scratch step by step as well as working on real-world projects as part of my day-to-day job 🛠
 
