@@ -69,9 +69,10 @@ Hello, my name is Bernard Ofoegbu.
 ![](https://visitor-badge.laobi.icu/badge?page_id=O-BERNARDOFOEGBU.O-BERNARDOFOEGBU)
 
 <div style="justify-content: space-between; flex-wrap: wrap; margin: 10px; gap:8px; display: flex;">
-  <img height="100%" src="https://github-readme-stats.vercel.app/api?username=O-BERNARDOFOEGBU&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=dark&background=000000&layout=compact" />
-  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-BERNARDOFOEGBU&theme=dark&background=000000&hide_border=false&layout=compact">
+  <img style="flex: 1 1 0; width: 48%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=O-BERNARDOFOEGBU&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=dark&background=000000&layout=compact" />
+  <img style="flex: 1 1 0; width: 48%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-BERNARDOFOEGBU&theme=dark&background=000000&hide_border=false&layout=compact">
 </div>
+
 
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=O-BERNARDOFOEGBU&theme=dark&background=000000&custom_title=streak-stats&hide_border=false&layout=compact" />
