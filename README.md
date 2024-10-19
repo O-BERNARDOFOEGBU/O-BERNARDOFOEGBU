@@ -68,10 +68,9 @@ Hello, my name is Bernard Ofoegbu.
 <!-- Profile Visitors -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=O-BERNARDOFOEGBU.O-BERNARDOFOEGBU)
 
-<div style="justify-content: center; flex-wrap: wrap; margin: 10px; display: flex;">
+<div style="justify-content: space-between; flex-wrap: wrap; margin: 10px; gap:8px; display: flex;">
   <img  src="https://github-readme-stats.vercel.app/api?username=O-BERNARDOFOEGBU&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=dark&background=000000&layout=compact" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-BERNARDOFOEGBU&theme=dark&background=000000&hide_border=false&layout=compact">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-BERNARDOFOEGBU&theme=tokyonight">
 </div>
 
 <p align="center">
