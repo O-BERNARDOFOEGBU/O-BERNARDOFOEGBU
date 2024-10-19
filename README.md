@@ -53,10 +53,13 @@ Driven by a passion for innovation, I take pride in writing clean, maintainable 
 
 ## 📊 Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=O-BERNARDOFOEGBU&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=dark&background=000000&layout=compact" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-BERNARDOFOEGBU&theme=dark&background=000000&hide_border=false&layout=compact" width="48%">
+<div style="justify-content: space-between; margin: 10px; gap: 8px; display: flex;">
+  <img style="flex: 1 1 0; width: 48%; height: 195px;" 
+       src="https://github-readme-stats.vercel.app/api?username=O-BERNARDOFOEGBU&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=dark&background=000000&layout=compact" />
+  <img style="flex: 1 1 0; width: 48%; height: 195px;" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-BERNARDOFOEGBU&theme=dark&background=000000&hide_border=false&layout=compact">
 </div>
+
 
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=O-BERNARDOFOEGBU&theme=dark&background=000000&custom_title=streak-stats&hide_border=false&layout=compact" />
