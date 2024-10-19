@@ -61,12 +61,14 @@ Hello, my name is Bernard Ofoegbu.
     <code><a href="https://www.docker.com//" title="Docker" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></code>
 </div>
 
+<!-- Profile Visitors -->
+![](https://visitor-badge.laobi.icu/badge?page_id=O-BERNARDOFOEGBU.O-BERNARDOFOEGBU)
+
 ## 📊 Stats
 <!-- Profile views
 <p> <img src="https://komarev.com/ghpvc/?username=O-BERNARDOFOEGBU" alt="O-BERNARDOFOEGBU" /> </p> -->
 
-<!-- Profile Visitors -->
-![](https://visitor-badge.laobi.icu/badge?page_id=O-BERNARDOFOEGBU.O-BERNARDOFOEGBU)
+
 
 <div style="justify-content: space-between; flex-wrap: wrap; margin: 10px; gap:8px; display: flex;">
   <img style="flex: 1 1 0; width: 48%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=O-BERNARDOFOEGBU&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=dark&background=000000&layout=compact" />
