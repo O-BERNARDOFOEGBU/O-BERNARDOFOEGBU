@@ -68,11 +68,11 @@ Hello, my name is Bernard Ofoegbu.
 <!-- Profile Visitors -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=O-BERNARDOFOEGBU.O-BERNARDOFOEGBU)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=O-BERNARDOFOEGBU&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=dark&background=000000&layout=compact" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-BERNARDOFOEGBU&theme=dark&background=000000&custom_title=streak-stats&hide_border=false&layout=compact">
-<img src="https://github-stats-O-BERNARDOFOEGBU.vercel.app/api/top-langs/?username=O-BERNARDOFOEGBU&theme=tokyonight">
-</p>
+<div align="center">
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=O-BERNARDOFOEGBU&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=dark&background=000000&layout=compact" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-BERNARDOFOEGBU&theme=dark&background=000000&custom_title=streak-stats&hide_border=false&layout=compact">
+<img width=33% src="https://github-stats-O-BERNARDOFOEGBU.vercel.app/api/top-langs/?username=O-BERNARDOFOEGBU&theme=tokyonight">
+</div>
 
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=O-BERNARDOFOEGBU&theme=dark&background=000000&custom_title=streak-stats&hide_border=false&layout=compact" />
