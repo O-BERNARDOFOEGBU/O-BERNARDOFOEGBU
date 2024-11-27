@@ -31,7 +31,7 @@ In these projects, I’ve focused on creating intuitive interfaces, integrating 
 ## 🔮 **What Drives Me**  
 What fuels me? The joy of solving problems, the satisfaction of building something that truly works, and the positive impact my work has on users. I thrive on collaborating with teams to turn complex ideas into simple, functional solutions that enhance lives and businesses.. 🔮
 
-## 📖 I take pride in writing clean, maintainable code, leading projects with enthusiasm, and constantly pushing the limits of what’s possible with technology. My recent explorations into AI-driven applications, like chatbots and voice assistants, reflect my commitment to innovation and my passion for staying ahead of the curve. Ultimately, I’m driven by the challenge of building solutions that empower people, simplify complex tasks, and provide lasting value.
+📖 I take pride in writing clean, maintainable code, leading projects with enthusiasm, and constantly pushing the limits of what’s possible with technology. My recent explorations into AI-driven applications, like chatbots and voice assistants, reflect my commitment to innovation and my passion for staying ahead of the curve. Ultimately, I’m driven by the challenge of building solutions that empower people, simplify complex tasks, and provide lasting value.
 
 <div align="center">
     <img width="60%" src="https://github.com/O-BERNARDOFOEGBU/O-BERNARDOFOEGBU/assets/65433039/cce68e13-7953-434b-a0c0-4ecc22bec058">
