@@ -25,7 +25,7 @@ I’ve worked on numerous projects, including: <br/>
 Fintech: Building cross-border payment solutions that ensure fast, secure transactions for users worldwide. <br/>
 Edtech: Automating university operations to streamline student-faculty engagement and improve operational efficiency.<br/>
 E-commerce: Developing scalable systems to support high-volume transactions and optimize customer experiences. <br/>
-Mobility: Creating seamless ride-sharing applications that enhance user accessibility and reliability.<br/>
+Mobility: Creating seamless ride-delivery applications that enhance user accessibility and reliability.<br/>
 In these projects, I’ve focused on creating intuitive interfaces, integrating APIs, and optimizing backend systems for speed and scalability. <br/>
 
 🔮 **What Drives Me**  
