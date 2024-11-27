@@ -13,20 +13,20 @@ Hello, my name is Bernard Ofoegbu.
 ---
 
 📖 **About Me**  
-I’m a Full-Stack Software Engineer with a frontend focus, thriving on building scalable, user-centric web applications that solve real-world problems. With over 5 years of experience, I blend the art of pixel-perfect design with the power of efficient backend solutions, delivering seamless end-to-end experiences that fuel both innovation and efficiency.
+I’m a Full-Stack Software Engineer with a frontend focus, thriving on building scalable, user-centric web applications that solve real-world problems. With over 5 years of experience, I blend the art of pixel-perfect design with the power of efficient backend solutions, delivering seamless end-to-end experiences that fuel both innovation and efficiency. <br/>
 
-I’ve had the privilege of contributing to a variety of industries—fintech, edtech, e-commerce, mobility, and entertainment—where I’ve crafted intuitive user interfaces, streamlined complex workflows, and optimized platform performance. Whether building sleek, responsive UIs or collaborating with backend teams to integrate key functionalities, my goal remains the same: solving complex problems with simple, elegant solutions.
+I’ve had the privilege of contributing to a variety of industries—fintech, edtech, e-commerce, mobility, and entertainment—where I’ve crafted intuitive user interfaces, streamlined complex workflows, and optimized platform performance. Whether building sleek, responsive UIs or collaborating with backend teams to integrate key functionalities, my goal remains the same: solving complex problems with simple, elegant solutions. <br/>
 
 🛠 **Skills & Projects**  
-My expertise lies in modern frontend technologies like React.js, Next.js, and Vue.js, which I pair with foundational tools such as MongoDB, Node.js, and Express to ensure smooth, high-performance applications from front to back.
+My expertise lies in modern frontend technologies like React.js, Next.js, and Vue.js, which I pair with foundational tools such as MongoDB, Node.js, and Express to ensure smooth, high-performance applications from front to back. <br/>
 
-I’ve worked on numerous projects, including:
+I’ve worked on numerous projects, including: <br/>
 
-Fintech: Building cross-border payment solutions that ensure fast, secure transactions for users worldwide.
-Edtech: Automating university operations to streamline student-faculty engagement and improve operational efficiency.
-E-commerce: Developing scalable systems to support high-volume transactions and optimize customer experiences.
-Mobility: Creating seamless ride-sharing applications that enhance user accessibility and reliability.
-In these projects, I’ve focused on creating intuitive interfaces, integrating APIs, and optimizing backend systems for speed and scalability.
+Fintech: Building cross-border payment solutions that ensure fast, secure transactions for users worldwide. <br/>
+Edtech: Automating university operations to streamline student-faculty engagement and improve operational efficiency.<br/>
+E-commerce: Developing scalable systems to support high-volume transactions and optimize customer experiences. <br/>
+Mobility: Creating seamless ride-sharing applications that enhance user accessibility and reliability.<br/>
+In these projects, I’ve focused on creating intuitive interfaces, integrating APIs, and optimizing backend systems for speed and scalability. <br/>
 
 🔮 **What Drives Me**  
 What fuels me? The joy of solving problems, the satisfaction of building something that truly works, and the positive impact my work has on users. I thrive on collaborating with teams to turn complex ideas into simple, functional solutions that enhance lives and businesses.. 🔮
