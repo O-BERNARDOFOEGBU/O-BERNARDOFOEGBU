@@ -2,7 +2,7 @@
 Hello, my name is Bernard Ofoegbu.
 -->
 
-# Hey there! Welcome to my GitHub Profile! ✨
+# Solutions that empower and transcend the ordinary won’t build themselves—Vocat me!
 
 👋 My name is Bernard! 😄 👋
 
