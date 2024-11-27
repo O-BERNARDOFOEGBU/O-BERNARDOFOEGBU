@@ -18,7 +18,7 @@ I’m a Full-Stack Software Engineer with a frontend focus, thriving on building
 I’ve had the privilege of contributing to a variety of industries—fintech, edtech, e-commerce, mobility, and entertainment—where I’ve crafted intuitive user interfaces, streamlined complex workflows, and optimized platform performance. Whether building sleek, responsive UIs or collaborating with backend teams to integrate key functionalities, my goal remains the same: solving complex problems with simple, elegant solutions. <br/>
 
 🛠 **Skills & Projects**  
-My expertise lies in modern frontend technologies like React.js, Next.js, and Vue.js, which I pair with foundational tools such as MongoDB, Node.js, and Express to ensure smooth, high-performance applications from front to back. <br/>
+My expertise lies in modern frontend technologies like React.js, Next.js, and Vue.js, which I seamlessly integrate with backend systems and APIs built in various languages. Whether developing backend solutions myself using foundational tools like MongoDB, Node.js, and Express, or collaborating with teams handling backend development in other technologies, I ensure that the full stack operates smoothly, delivering high-performance applications from front to back. <br/>
 
 I’ve worked on numerous projects, including: <br/>
 
