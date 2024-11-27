@@ -12,12 +12,12 @@ Hello, my name is Bernard Ofoegbu.
 
 ---
 
-📖 **About Me**  
+## 📖 **About Me**  
 I’m a Full-Stack Software Engineer with a frontend focus, thriving on building scalable, user-centric web applications that solve real-world problems. With over 5 years of experience, I blend the art of pixel-perfect design with the power of efficient backend solutions, delivering seamless end-to-end experiences that fuel both innovation and efficiency. <br/>
 
 I’ve had the privilege of contributing to a variety of industries—fintech, edtech, e-commerce, mobility, and entertainment—where I’ve crafted intuitive user interfaces, streamlined complex workflows, and optimized platform performance. Whether building sleek, responsive UIs or collaborating with backend teams to integrate key functionalities, my goal remains the same: solving complex problems with simple, elegant solutions. <br/>
 
-🛠 **Skills & Projects**  
+## 🛠 **Skills & Projects**  
 My expertise lies in modern frontend technologies like React.js, Next.js, and Vue.js, which I seamlessly integrate with backend systems and APIs built in various languages. Whether developing backend solutions myself using foundational tools like MongoDB, Node.js, and Express, or collaborating with teams handling backend development in other technologies, I ensure that the full stack operates smoothly, delivering high-performance applications from front to back. <br/>
 
 I’ve worked on numerous projects, including: <br/>
@@ -28,10 +28,10 @@ I’ve worked on numerous projects, including: <br/>
 **Mobility:** Creating seamless ride-delivery applications that enhance user accessibility and reliability.<br/>
 In these projects, I’ve focused on creating intuitive interfaces, integrating APIs, and optimizing backend systems for speed and scalability. <br/>
 
-🔮 **What Drives Me**  
+## 🔮 **What Drives Me**  
 What fuels me? The joy of solving problems, the satisfaction of building something that truly works, and the positive impact my work has on users. I thrive on collaborating with teams to turn complex ideas into simple, functional solutions that enhance lives and businesses.. 🔮
 
-📖 I take pride in writing clean, maintainable code, leading projects with enthusiasm, and constantly pushing the limits of what’s possible with technology. My recent explorations into AI-driven applications, like chatbots and voice assistants, reflect my commitment to innovation and my passion for staying ahead of the curve. Ultimately, I’m driven by the challenge of building solutions that empower people, simplify complex tasks, and provide lasting value.
+## 📖 I take pride in writing clean, maintainable code, leading projects with enthusiasm, and constantly pushing the limits of what’s possible with technology. My recent explorations into AI-driven applications, like chatbots and voice assistants, reflect my commitment to innovation and my passion for staying ahead of the curve. Ultimately, I’m driven by the challenge of building solutions that empower people, simplify complex tasks, and provide lasting value.
 
 <div align="center">
     <img width="60%" src="https://github.com/O-BERNARDOFOEGBU/O-BERNARDOFOEGBU/assets/65433039/cce68e13-7953-434b-a0c0-4ecc22bec058">
