@@ -13,7 +13,7 @@ Hello, my name is Bernard Ofoegbu.
 ---
 
 ## 📖 **About Me**  
-I’m a Full-Stack Software Engineer with a frontend focus, thriving on building scalable, user-centric web applications that solve real-world problems. With over 5 years of experience, I blend the art of pixel-perfect design with the power of efficient backend solutions, delivering seamless end-to-end experiences that fuel both innovation and efficiency. <br/>
+I’m a Frontend-Heavy Full-stack Software Engineer, thriving on building scalable, user-centric web applications that solve real-world problems. With over 5 years of experience, I blend the art of pixel-perfect design with the power of efficient backend solutions, delivering seamless end-to-end experiences that fuel both innovation and efficiency. <br/>
 
 I’ve had the privilege of contributing to a variety of industries—fintech, edtech, e-commerce, mobility, and entertainment—where I’ve crafted intuitive user interfaces, streamlined complex workflows, and optimized platform performance. Whether building sleek, responsive UIs or collaborating with backend teams to integrate key functionalities, my goal remains the same: solving complex problems with simple, elegant solutions. <br/>
 
