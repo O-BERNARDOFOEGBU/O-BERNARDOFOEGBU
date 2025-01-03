@@ -20,7 +20,7 @@ I’ve had the privilege of contributing to a variety of industries—fintech, e
 ## 🛠 **Skills & Projects**  
 My expertise lies in modern frontend technologies like React.js, Next.js, and Vue.js, which I seamlessly integrate with backend systems and APIs built in various languages. Whether developing backend solutions myself using foundational tools like MongoDB, Node.js, and Express, or collaborating with teams handling backend development in other technologies, I ensure that the full stack operates smoothly, delivering high-performance applications from front to back. <br/>
 
-I’ve worked on numerous projects, including: <br/>
+I’ve worked on numerous projects, including: <br/> <br/>
 
 **Fintech:** Building cross-border payment solutions that ensure fast, secure transactions for users worldwide. <br/>
 **Edtech:** Automating university operations to streamline student-faculty engagement and improve operational efficiency.<br/>
