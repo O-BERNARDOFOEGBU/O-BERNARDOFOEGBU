@@ -2,9 +2,9 @@
 Hello, my name is Bernard Ofoegbu.
 -->
 
-# Reliability isn't a feature, it's the product—Vocat me!
+# Reliability isn't a feature, it's the product!
 
-👋 My name is Bernard! 😄 👋
+👋 I'm Obinna Bernard Ofoegbu (professionally known as Bernard) 😄 👋
 
 <div align="center">
     <img width="90%" src="https://github.com/O-BERNARDOFOEGBU/O-BERNARDOFOEGBU/assets/65433039/d7516c98-6cc3-4095-9651-b27f68403522">
@@ -51,7 +51,9 @@ Comfort moving fast on scoped, deadline-driven builds — VaultCircle went from 
 
 Money is just data. Banking is state synchronization. Downtime is a financial problem before it's an engineering problem. If a system isn't observable, it isn't reliable — it's just lucky, temporarily. <br/>
 
-I'm currently deepening my OpenTelemetry JS contributions toward CNCF maintainer status, and building **KudiTrace**, an AI SRE agent for African financial infrastructure — the natural next step from watching dashboards to building the thing that watches them for you.
+I'm currently deepening my OpenTelemetry JS contributions toward CNCF maintainer status, and building **KudiTrace**, an AI SRE agent for African financial infrastructure — the natural next step from watching dashboards to building the thing that watches them for you.<br/>
+
+Outside work, I enjoy building products that solve practical business problems—from financial infrastructure to SME operations and digital services.
 
 <div align="center">
     <img width="60%" src="https://github.com/O-BERNARDOFOEGBU/O-BERNARDOFOEGBU/assets/65433039/cce68e13-7953-434b-a0c0-4ecc22bec058">
