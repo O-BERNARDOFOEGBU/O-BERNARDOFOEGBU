@@ -72,6 +72,12 @@ Outside work, I enjoy building products that solve practical business problemsâ€
     <a href="https://grafana.com/" title="Grafana" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
     </a>
+    <a href="https://prometheus.io/" title="Prometheus" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
+    </a>
+    <a href="https://www.datadoghq.com/" title="Datadog" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" width="40" height="40"/>
+    </a>
     <a href="https://www.rust-lang.org/" title="Rust" target="_blank">
       <img src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/rust/rust.png" alt="Rust" width="40" height="40"/>
     </a>
