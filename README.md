@@ -2,7 +2,7 @@
 Hello, my name is Bernard Ofoegbu.
 -->
 
-# Reliability isn't a feature, it's the product!
+# Reliability isn't a feature, it's the product—let's build it right the first time!
 
 👋 I'm Obinna Bernard Ofoegbu (professionally known as Bernard) 😄 👋
 
